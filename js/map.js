@@ -8,11 +8,12 @@ $(window).resize(function () {
 $(function() {
 
   SearchableMapLib.initialize({
-    filePath: 'data/chicago-flu-shot-locations-2019.csv',
+    // filePath: 'data/chicago-flu-shot-locations-2019.csv',
+    filePath: 'data/indiacity .csv',
     fileType: 'csv',
     recordName: 'flu shot location',
     recordNamePlural: 'flu shot locations',
-    map_centroid: [41.85754, -87.66231],
+    map_centroid: [22.491808, 79.176086],
     defaultZoom:  11,
     defaultRadius: 1610,
     debug: false,
