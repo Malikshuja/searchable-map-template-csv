@@ -9,7 +9,7 @@ $(function() {
 
   SearchableMapLib.initialize({
     // filePath: 'data/chicago-flu-shot-locations-2019.csv',
-    filePath: 'data/indiacity .csv',
+    filePath: 'data/indiacity.csv',
     fileType: 'csv',
     recordName: 'flu shot location',
     recordNamePlural: 'flu shot locations',
