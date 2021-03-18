@@ -6,6 +6,8 @@ You want to put your data on a searchable, filterable map. Provide a comma separ
 
 ![searchable-map-template-turf](https://raw.githubusercontent.com/datamade/searchable-map-template-turf/master/img/screenshot.jpg)
 
+## Demo:
+https://malikshuja.github.io/searchable-map-template-csv/
 ## Features
 
 * address search (with variable radius and geocomplete)
